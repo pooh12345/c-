@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1576337218 source:d:\ttttttttt\atom\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+	<vector>
+	<algorithm>
+	<iostream>
+	<math.h>
+

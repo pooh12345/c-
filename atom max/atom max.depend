@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592623827 source:d:\ttttttttt\atom max\main.cpp
+	<iostream>
+	<cmath>
+	<bits/stdc++.h>
+

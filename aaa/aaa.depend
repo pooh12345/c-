@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1576416033 source:d:\ttttttttt\aaa\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+	<vector>
+	<algorithm>
+	<iostream>
+	<math.h>
+

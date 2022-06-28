@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584453644 source:d:\ttttttttt\activityselection\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
